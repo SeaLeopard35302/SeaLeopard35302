@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently help with web development, small scale bot making<br>I'm currently Learning computer science and engineering 
+I currently help with web development, small scale bot making<br>I'm currently a computer engineering student
 
 
 ## 🌐 Socials:
