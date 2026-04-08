@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently help with web development, small scale bot making
+I build full-stack apps using TypeScript, Next.js, and Java, mostly focusing on server-side stuff and clean backend integrations (MariaDB, Appwrite). I also spend a lot of time on Linux—tweaking setups, automating workflows, and fixing low-level issues. I like building simple, reliable tools that actually solve real problems.
 
 
 ## 🌐 Socials:
